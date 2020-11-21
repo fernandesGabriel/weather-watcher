@@ -1,0 +1,2 @@
+python-yr==1.4.7.post2
+xmltodict==0.12.0

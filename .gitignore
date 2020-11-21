@@ -1,0 +1,20 @@
+###> jetbrains/pycharm ###
+.idea/
+modules.xml
+###< jetbrains/pycharm ###
+
+###> microsoft/visualstudiocode ###
+.idea/
+modules.xml
+###< microsoft/visualstudiocode ###
+
+###> application/python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+*.egg-info/
+*.egg
+###> application/python ###
